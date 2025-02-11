@@ -3,8 +3,8 @@ Este proyecto analiza los datos de los pasajeros del Titanic usando Python, Pand
 Se exploran correlaciones entre variables como género, clase y supervivencia.  
 
 ## 📂 Archivos
-- `Titanic-Analysis.ipynb`: Notebook con el análisis.
-- `Titanic-Analysis.pdf`: Versión en PDF con gráficos.
+- `Titanic-Data-Analysis.ipynb`: Notebook con el análisis.
+- `ANÁLISIS EXPLORATORIO DEL DATASET TITANIC.pdf`: Versión en PDF con gráficos.
 
 ## 🚀 Tecnologías usadas
 - Python  
